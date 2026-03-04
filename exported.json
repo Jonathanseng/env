@@ -1,0 +1,19 @@
+{
+  "API_KEY": "your-api-key-here",
+  "API_URL": "http://localhost:${PORT}/api/v1",
+  "BASE_URL": "http://localhost:3000",
+  "DB_HOST": "localhost",
+  "DB_NAME": "myapp_db",
+  "DB_PASSWORD": "supersecretpassword",
+  "DB_PORT": "5432",
+  "DB_USER": "admin",
+  "DEBUG": "true",
+  "FULL_API_URL": "${BASE_URL}/api/v1/users",
+  "MAIL_HOST": "smtp.mailtrap.io",
+  "MAIL_PASS": "your-mail-password",
+  "MAIL_PORT": "587",
+  "MAIL_USER": "your-mail-username",
+  "NODE_ENV": "development",
+  "PORT": "3000",
+  "SECRET_KEY": "your-secret-key-here"
+}
